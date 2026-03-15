@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0283-move-zeroes) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0283-move-zeroes) |
 ## Hash Table
