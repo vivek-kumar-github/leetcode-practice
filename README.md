@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0283-move-zeroes) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0189-rotate-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
