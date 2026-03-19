@@ -1,16 +1,19 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
-        //using extra space
+        //using cyclic sort
         int n = nums.length;
-        HashSet<Integer> list = new HashSet<>();
-        for (int num : nums) {
-            list.add(num);
-        }
-        for (int i = 1; i <= n + 1; i++) {
-            if (!list.contains(i)) {
-                return i;
+        for (int i = 0; i < n; i++) {
+            while (nums[i] > 0 && nums[i] <= n && nums[i] != nums[nums[i] - 1]) {
+                int temp = nums[nums[i] - 1];
+                nums[nums[i] - 1] = nums[i];
+                nums[i] = temp;
             }
         }
-        return 1;
+        for (int i = 0; i < n; i++) {
+            if (nums[i] != i + 1) {
+                return i + 1;
+            }
+        }
+        return n + 1;
     }
 }
