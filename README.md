@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0392-is-subsequence) |
