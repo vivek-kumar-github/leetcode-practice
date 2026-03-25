@@ -1,27 +1,19 @@
 class Solution {
     public String convert(String s, int numRows) {
-        //using extra space
-        if (numRows == 1 || numRows >= s.length()) {
+        // optimal, without using extra space
+        int n = s.length();
+        if (numRows == 1 || numRows >= n) {
             return s;
         }
-        StringBuilder[] sb = new StringBuilder[numRows];
-        for (int i = 0; i < numRows; i++) {
-            sb[i] = new StringBuilder();
-        }
-        int i = 0;
-        int dir = 1;
-        for (char x : s.toCharArray()) {
-            sb[i].append(x);
-            if (i == 0) {
-                dir = 1;
-            } else if (i == numRows - 1) {
-                dir = -1;
-            }
-            i += dir;
-        }
+        int cycle = 2 * numRows - 2;
         StringBuilder ans = new StringBuilder();
-        for (StringBuilder row : sb) {
-            ans.append(row);
+        for (int row = 0; row < numRows; row++) {
+            for (int j = 0; j + row < n; j += cycle) {
+                ans.append(s.charAt(j + row));
+                if (row > 0 && row < numRows - 1 && j + cycle - row < n) {
+                    ans.append(s.charAt(j + cycle - row));
+                }
+            }
         }
         return ans.toString();
     }
