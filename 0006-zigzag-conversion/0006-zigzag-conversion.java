@@ -1,26 +1,28 @@
 class Solution {
     public String convert(String s, int numRows) {
-        int n = s.length();
-        if (numRows == 1 || numRows > n) return s;
-        StringBuilder[] ans = new StringBuilder[numRows];
+        //using extra space
+        if (numRows == 1 || numRows >= s.length()) {
+            return s;
+        }
+        StringBuilder[] sb = new StringBuilder[numRows];
         for (int i = 0; i < numRows; i++) {
-            ans[i] = new StringBuilder();
+            sb[i] = new StringBuilder();
         }
         int i = 0;
-        while (i < n) {
-            for (int index = 0; index < numRows && i < n; index++) {
-                ans[index].append(s.charAt(i));
-                i++;
+        int dir = 1;
+        for (char x : s.toCharArray()) {
+            sb[i].append(x);
+            if (i == 0) {
+                dir = 1;
+            } else if (i == numRows - 1) {
+                dir = -1;
             }
-            for (int index = numRows - 2; index > 0 && i < n; index--) {
-                ans[index].append(s.charAt(i));
-                i++;
-            }
+            i += dir;
         }
-        StringBuilder sb = new StringBuilder();
-        for (StringBuilder x : ans) {
-            sb.append(x);
+        StringBuilder ans = new StringBuilder();
+        for (StringBuilder row : sb) {
+            ans.append(row);
         }
-        return sb.toString();
+        return ans.toString();
     }
 }
