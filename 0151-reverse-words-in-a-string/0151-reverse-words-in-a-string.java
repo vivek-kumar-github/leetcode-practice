@@ -1,13 +1,23 @@
 class Solution {
     public String reverseWords(String s) {
-        //brute force
-        String[] res = s.trim().split("\\s+");
+        //optimal using two pointers
         StringBuilder ans = new StringBuilder();
-        for (int i = res.length - 1; i >= 0; i--) {
-            ans.append(res[i]);
-            if (i > 0) {
-                ans.append(" ");
+        int i = s.length() - 1;
+        while (i >= 0) {
+            while (i >= 0 && s.charAt(i) == ' ') {
+                i--;
             }
+            if (i < 0) {
+                break;
+            }
+            int end = i;
+            while (i >= 0 && s.charAt(i) != ' ') {
+                i--;
+            }
+            if (ans.length() > 0) {
+                ans.append(' ');
+            }
+            ans.append(s, i + 1, end + 1);
         }
         return ans.toString();
     }
