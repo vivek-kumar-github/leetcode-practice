@@ -1,24 +1,31 @@
 class Solution {
     public String reverseWords(String s) {
-        //optimal using two pointers
-        StringBuilder ans = new StringBuilder();
-        int i = s.length() - 1;
-        while (i >= 0) {
-            while (i >= 0 && s.charAt(i) == ' ') {
-                i--;
+        char[] chars = s.toCharArray();
+        int n = s.length();
+        reverse(chars, 0, n - 1);
+        int write = 0;
+        for (int i = 0; i < n; i++) {
+            if (chars[i] != ' ') {
+                if (write > 0) {
+                    chars[write++] = ' ';
+                }
+                int wordStart = write;
+                while (i < n && chars[i] != ' ') {
+                    chars[write++] = chars[i++];
+                }
+                reverse(chars, wordStart, write - 1);
             }
-            if (i < 0) {
-                break;
-            }
-            int end = i;
-            while (i >= 0 && s.charAt(i) != ' ') {
-                i--;
-            }
-            if (ans.length() > 0) {
-                ans.append(' ');
-            }
-            ans.append(s, i + 1, end + 1);
         }
-        return ans.toString();
+        return new String(chars, 0, write);
+    }
+
+    public void reverse(char[] chars, int left, int right) {
+        while (left < right) {
+            char temp = chars[left];
+            chars[left] = chars[right];
+            chars[right] = temp;
+            left++;
+            right--;
+        }
     }
 }
