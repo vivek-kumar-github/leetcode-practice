@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0231-power-of-two) |
 | [0873-guess-the-word](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0873-guess-the-word) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Two Pointers
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0873-guess-the-word](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0873-guess-the-word) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
