@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0238-product-of-array-except-self) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
