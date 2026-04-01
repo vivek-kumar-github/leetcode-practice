@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
 | ------- |
