@@ -1,13 +1,10 @@
 class Solution {
     public int getSum(int a, int b) {
-        //using successive increment/decrement
-        while (b > 0) {
-            a = -~a;
-            b = ~-b;
-        }
-        while (b < 0) {
-            a = ~-a;
-            b = -~b;
+        //using bit manipulation XOR + AND + Shift
+        while (b != 0) {
+            int carry = (a & b) << 1;
+            a = a ^ b;
+            b = carry;
         }
         return a;
     }
