@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
