@@ -1,15 +1,21 @@
 class Solution {
     public int maxNumberOfBalloons(String text) {
-        //using character frequency with array
-        int[] count = new int[26];
+        //using hashmap with target word frequency
+        String target = "balloon";
+        HashMap<Character, Integer> textCount = new HashMap<>();
         for (char c : text.toCharArray()) {
-            count[c - 'a']++;
+            textCount.put(c, textCount.getOrDefault(c, 0) + 1);
         }
-        int result = count['b' - 'a'];
-        result = Math.min(result, count['a' - 'a']);
-        result = Math.min(result, count['l' - 'a'] / 2);
-        result = Math.min(result, count['o' - 'a'] / 2);
-        result = Math.min(result, count['n' - 'a']);
+        HashMap<Character, Integer> targetCount = new HashMap<>();
+        for (char c : target.toCharArray()) {
+            targetCount.put(c, targetCount.getOrDefault(c, 0) + 1);
+        }
+        int result = Integer.MAX_VALUE;
+        for (Map.Entry<Character, Integer> entry : targetCount.entrySet()) {
+            int supply = textCount.getOrDefault(entry.getKey(), 0);
+            int demand = entry.getValue();
+            result = Math.min(result, supply / demand);
+        }
         return result;
     }
 }
