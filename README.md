@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0817-design-hashmap](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0817-design-hashmap) |
 | [0873-guess-the-word](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0873-guess-the-word) |
+| [1635-number-of-good-pairs](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Math
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0371-sum-of-two-integers) |
 | [0873-guess-the-word](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0873-guess-the-word) |
+| [1635-number-of-good-pairs](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0817-design-hashmap](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0817-design-hashmap) |
 | [1297-maximum-number-of-balloons](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1297-maximum-number-of-balloons) |
+| [1635-number-of-good-pairs](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Divide and Conquer
 |  |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0169-majority-element) |
 | [1297-maximum-number-of-balloons](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1297-maximum-number-of-balloons) |
+| [1635-number-of-good-pairs](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Dynamic Programming
 |  |
