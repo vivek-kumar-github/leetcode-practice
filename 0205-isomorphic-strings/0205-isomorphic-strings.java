@@ -1,18 +1,18 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        HashMap<Character, Character> mapST = new HashMap<>();
-        HashMap<Character, Character> mapTS = new HashMap<>();
+        //using last seen index
+        int[] lastSeenS = new int[256];
+        int[] lastSeenT = new int[256];
+        Arrays.fill(lastSeenS, -1);
+        Arrays.fill(lastSeenT, -1);
         for (int i = 0; i < s.length(); i++) {
             char charS = s.charAt(i);
             char charT = t.charAt(i);
-            if (mapST.containsKey(charS) && mapST.get(charS) != charT) {
+            if (lastSeenS[charS] != lastSeenT[charT]) {
                 return false;
             }
-            if (mapTS.containsKey(charT) && mapTS.get(charT) != charS) {
-                return false;
-            }
-            mapST.put(charS, charT);
-            mapTS.put(charT, charS);
+            lastSeenS[charS] = i;
+            lastSeenT[charT] = i;
         }
         return true;
     }
