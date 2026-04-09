@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0136-single-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Counting
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0006-zigzag-conversion](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0205-isomorphic-strings) |
