@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0137-single-number-ii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0283-move-zeroes) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0817-design-hashmap](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0817-design-hashmap) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0817-design-hashmap) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
