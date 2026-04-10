@@ -1,18 +1,18 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        //using sorting and hashmap
-        HashMap<String, List<String>> map = new HashMap<>();
+        //using character frequency count optimal
+        Map<String, List<String>> map = new HashMap<>();
         for (String str : strs) {
-            char[] chars = str.toCharArray();
-            Arrays.sort(chars);
-            String key = new String(chars);
-
-            /*if (!map.containsKey(key)) {
-                map.put(key, new ArrayList<>());
+            int[] chars = new int[26];
+            for (char c : str.toCharArray()) {
+                chars[c - 'a']++;
             }
-            map.get(key).add(str);*/
-            //the commented code is same as below for Java 8+
-
+            StringBuilder sb = new StringBuilder();
+            for (int count : chars) {
+                sb.append('#').append(count);
+            }
+            String key = new String(sb);
+            System.out.println(key);
             map.computeIfAbsent(key, k -> new ArrayList<>()).add(str);
         }
         return new ArrayList<>(map.values());
