@@ -1,36 +1,21 @@
 public class Codec {
-    private Map<String, String> code2url = new HashMap<>();
-    private Map<String, String> url2code = new HashMap<>();
-    private static final String CHARS = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
-    private static final String prefix = "http://shortly.com/";
-    private Random random = new Random();
-
-    private String genKey() {
-        StringBuilder sb = new StringBuilder();
-        for (int i = 0; i < 6; i++) {
-            sb.append(CHARS.charAt(random.nextInt(62)));
-        }
-        return sb.toString();
-    }
+    //deterministic approach using hashCode()
+    private Map<Integer, String> map = new HashMap<>();
 
     // Encodes a URL to a shortened URL.
     public String encode(String longUrl) {
-        if (url2code.containsKey(longUrl)) {
-            return prefix + url2code.get(longUrl);
+        int key = longUrl.hashCode();
+        while(map.containsKey(key) && !map.get(key).equals(longUrl)) {
+            key++;
         }
-        String key = genKey();
-        while(code2url.containsKey(key)) {
-            key = genKey();
-        }
-        code2url.put(key, longUrl);
-        url2code.put(longUrl, key);
-        return prefix + key;
+        map.put(key, longUrl);
+        return "http://shortly.com/" + key;
     }
 
     // Decodes a shortened URL to its original URL.
     public String decode(String shortUrl) {
-        String key = shortUrl.replace(prefix, "");
-        return code2url.get(key);
+        int key = Integer.parseInt(shortUrl.replace("http://shortly.com/", ""));
+        return map.get(key);
     }
 }
 
