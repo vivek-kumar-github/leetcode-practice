@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0535-encode-and-decode-tinyurl) |
+| [0778-reorganize-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0817-design-hashmap) |
 | [1297-maximum-number-of-balloons](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1635-number-of-good-pairs) |
@@ -70,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0778-reorganize-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0778-reorganize-string) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0383-ransom-note) |
+| [0778-reorganize-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/2372-rearrange-characters-to-make-target-string) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0778-reorganize-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0778-reorganize-string) |
 ## String
 |  |
 | ------- |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0535-encode-and-decode-tinyurl) |
+| [0778-reorganize-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0778-reorganize-string) |
 | [0873-guess-the-word](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0873-guess-the-word) |
 | [1297-maximum-number-of-balloons](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1297-maximum-number-of-balloons) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/2372-rearrange-characters-to-make-target-string) |
@@ -154,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
