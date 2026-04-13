@@ -1,41 +1,34 @@
 class Solution {
     public String reorganizeString(String s) {
-        //sorting by frequency
+        //using max heap greedy
         int[] freq = new int[26];
         for (char c : s.toCharArray()) {
             freq[c - 'a']++;
         }
 
         int n = s.length();
-        for (int f : freq) {
-            if (f > (n + 1) / 2) {
-                return "";
-            }
-        }
-
-        List<int[]> sorted = new ArrayList<>();
+        PriorityQueue<int[]> heap = new PriorityQueue<>((a, b) -> b[0] - a[0]);
         for (int i = 0; i < 26; i++) {
             if (freq[i] > 0) {
-                sorted.add(new int[]{freq[i], i});
-            }
-        }
-
-        sorted.sort((a, b) -> b[0] - a[0]);
-
-        char[] res = new char[n];
-        int idx = 0;
-        for (int[] entry : sorted) {
-            int count = entry[0];
-            char c = (char) (entry[1] + 'a');
-            while (count-- > 0) {
-                res[idx] = c;
-                idx += 2;
-                if (idx >= n) {
-                    idx = 1;
+                if (freq[i] > (n + 1) / 2) {
+                    return "";
                 }
+                heap.offer(new int[]{freq[i], i});
             }
         }
 
-        return new String(res);
+        StringBuilder result = new StringBuilder();
+        int[] prev = null;
+        while (!heap.isEmpty()) {
+            int[] curr = heap.poll();
+            if (prev != null && prev[0] > 0) {
+                heap.offer(prev);
+            }
+            result.append((char) (curr[1] + 'a'));
+            curr[0]--;
+            prev = curr;
+        }
+        
+        return result.length() == n ? result.toString() : "";
     }
 }
