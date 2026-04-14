@@ -1,34 +1,39 @@
 class Solution {
     public String reorganizeString(String s) {
-        //using max heap greedy
+        //Frequency Count + Index Filling (Optimal)
         int[] freq = new int[26];
         for (char c : s.toCharArray()) {
             freq[c - 'a']++;
         }
 
-        int n = s.length();
-        PriorityQueue<int[]> heap = new PriorityQueue<>((a, b) -> b[0] - a[0]);
+        int maxFreq = 0, maxChar = 0;
         for (int i = 0; i < 26; i++) {
-            if (freq[i] > 0) {
-                if (freq[i] > (n + 1) / 2) {
-                    return "";
-                }
-                heap.offer(new int[]{freq[i], i});
+            if (freq[i] > maxFreq) {
+                maxFreq = freq[i];
+                maxChar = i;
             }
         }
 
-        StringBuilder result = new StringBuilder();
-        int[] prev = null;
-        while (!heap.isEmpty()) {
-            int[] curr = heap.poll();
-            if (prev != null && prev[0] > 0) {
-                heap.offer(prev);
-            }
-            result.append((char) (curr[1] + 'a'));
-            curr[0]--;
-            prev = curr;
+        int n = s.length();
+        if (maxFreq > (n + 1) / 2) return "";
+
+        char[] result = new char[n];
+        int idx = 0;
+
+        while (freq[maxChar] > 0) {
+            result[idx] = (char) (maxChar + 'a');
+            freq[maxChar]--;
+            idx += 2;
         }
-        
-        return result.length() == n ? result.toString() : "";
+
+        for (int i = 0; i < 26; i++) {
+            while (freq[i] > 0) {
+                if (idx >= n) idx = 1; // Wrap to odd indices
+                result[idx] = (char) (i + 'a');
+                freq[i]--;
+                idx += 2;
+            }
+        }
+        return new String(result);
     }
 }
