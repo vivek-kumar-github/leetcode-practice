@@ -1,27 +1,27 @@
 class Solution {
     public boolean isPossible(int[] nums) {
-        Map<Integer, Integer> freq = new HashMap<>();
-        Map<Integer, Integer> tails = new HashMap<>();
-        for (int num : nums) {
-            freq.put(num, freq.getOrDefault(num, 0) + 1);
-        }
+        //using greedy with min heap
+        PriorityQueue<int[]> heap = new PriorityQueue<>(
+                (a, b) -> a[0] != b[0] ? a[0] - b[0] : a[1] - b[1]);
 
         for (int num : nums) {
-            if (freq.get(num) == 0) continue;
-
-            if (tails.getOrDefault(num, 0) > 0) {
-                tails.put(num, tails.get(num) - 1);
-                tails.put(num + 1, tails.getOrDefault(num + 1, 0) + 1);
-            } else if (freq.getOrDefault(num + 1, 0) > 0
-                    && freq.getOrDefault(num + 2, 0) > 0) {
-                freq.put(num + 1, freq.get(num + 1) - 1);
-                freq.put(num + 2, freq.get(num + 2) - 1);
-                tails.put(num + 3, tails.getOrDefault(num + 3, 0) + 1);
+            while (!heap.isEmpty() && heap.peek()[0] < num - 1) {
+                if (heap.poll()[1] < 3) {
+                    return false;
+                }
+            }
+            if (!heap.isEmpty() && heap.peek()[0] == num - 1) {
+                int[] top = heap.poll();
+                heap.offer(new int[] { num, top[1] + 1 });
             } else {
-                return false;
+                heap.offer(new int[] { num, 1 });
             }
 
-            freq.put(num, freq.get(num) - 1);
+        }
+        while (!heap.isEmpty()) {
+            if (heap.poll()[1] < 3) {
+                return false;
+            }
         }
         return true;
     }
