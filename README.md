@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0334-increasing-triplet-subsequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0817-design-hashmap) |
 | [0873-guess-the-word](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0873-guess-the-word) |
 | [1635-number-of-good-pairs](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1635-number-of-good-pairs) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0535-encode-and-decode-tinyurl](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0778-reorganize-string) |
+| [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0817-design-hashmap) |
 | [1297-maximum-number-of-balloons](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1635-number-of-good-pairs) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0778-reorganize-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0778-reorganize-string) |
+| [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
 ## Counting
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0392-is-subsequence) |
+| [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0778-reorganize-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0778-reorganize-string) |
+| [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0873-guess-the-word](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0873-guess-the-word) |
 | [1297-maximum-number-of-balloons](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1297-maximum-number-of-balloons) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/2372-rearrange-characters-to-make-target-string) |
@@ -123,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
 ## Interactive
 |  |
 | ------- |
@@ -173,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
