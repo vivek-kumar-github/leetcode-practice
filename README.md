@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0817-design-hashmap) |
 | [1297-maximum-number-of-balloons](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1297-maximum-number-of-balloons) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1635-number-of-good-pairs](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Divide and Conquer
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0873-guess-the-word](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0873-guess-the-word) |
 | [1297-maximum-number-of-balloons](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1297-maximum-number-of-balloons) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Trie
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0371-sum-of-two-integers) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Recursion
 |  |
 | ------- |
