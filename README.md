@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0817-design-hashmap) |
 | [0873-guess-the-word](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0873-guess-the-word) |
+| [0954-maximum-sum-circular-subarray](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0954-maximum-sum-circular-subarray) |
 | [1635-number-of-good-pairs](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Math
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0190-reverse-bits) |
+| [0954-maximum-sum-circular-subarray](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
+| [0954-maximum-sum-circular-subarray](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0954-maximum-sum-circular-subarray) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Prefix Sum
 |  |
@@ -199,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
