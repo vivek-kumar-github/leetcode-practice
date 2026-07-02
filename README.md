@@ -213,5 +213,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [1153-product-sales-analysis-i](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
