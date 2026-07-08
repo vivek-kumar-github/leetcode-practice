@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0338-counting-bits) |
@@ -219,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0620-not-boring-movies](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
