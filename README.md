@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 ## Greedy
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0817-design-hashmap) |
 ## Hash Function
