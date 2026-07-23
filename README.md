@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0260-single-number-iii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0200-number-of-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -237,4 +239,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0042-trapping-rain-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
