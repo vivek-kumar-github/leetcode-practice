@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0954-maximum-sum-circular-subarray) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1632-number-of-good-ways-to-split-a-string) |
