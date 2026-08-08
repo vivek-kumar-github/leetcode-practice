@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0954-maximum-sum-circular-subarray](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0954-maximum-sum-circular-subarray) |
 | [1635-number-of-good-pairs](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Math
 |  |
 | ------- |
