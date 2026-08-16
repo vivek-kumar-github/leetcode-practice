@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0334-increasing-triplet-subsequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0817-design-hashmap) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0778-reorganize-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
 ## Counting
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0455-assign-cookies](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0778-reorganize-string) |
 ## String
@@ -265,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0070-climbing-stairs) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
