@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0817-design-hashmap) |
 | [0873-guess-the-word](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0873-guess-the-word) |
+| [0890-lemonade-change](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0890-lemonade-change) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0954-maximum-sum-circular-subarray) |
 | [1635-number-of-good-pairs](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0778-reorganize-string) |
+| [0890-lemonade-change](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0890-lemonade-change) |
 ## String
 |  |
 | ------- |
