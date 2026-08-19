@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0678-valid-parenthesis-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0954-maximum-sum-circular-subarray) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0334-increasing-triplet-subsequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0890-lemonade-change) |
 ## String
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0535-encode-and-decode-tinyurl) |
+| [0678-valid-parenthesis-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0873-guess-the-word](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0873-guess-the-word) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -275,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
