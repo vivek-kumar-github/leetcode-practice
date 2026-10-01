@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0455-assign-cookies) |
+| [0503-next-greater-element-ii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0808-number-of-matching-subsequences](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0817-design-hashmap) |
@@ -256,11 +257,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/vivek-kumar-github/leetcode-practice/tree/master/0503-next-greater-element-ii) |
 ## Depth-First Search
 |  |
 | ------- |
